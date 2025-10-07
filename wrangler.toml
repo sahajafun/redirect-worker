@@ -1,3 +1,3 @@
-name = "sahaja-redirect"
+name = "redirect-www"
 main = "_worker.js"
 compatibility_date = "2025-10-06"
